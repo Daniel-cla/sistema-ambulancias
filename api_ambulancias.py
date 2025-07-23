@@ -1,3 +1,7 @@
+#Luis Daniel Clavijo Tobon
+#Laura Dayana Velasquez Carreño
+#Diego Rosas Rey
+
 from flask import Flask, request, jsonify
 import mysql.connector
 
